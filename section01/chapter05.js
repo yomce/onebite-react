@@ -34,3 +34,7 @@ let isEmpty = false;
 
 // 4. Null Type (아무것도 없다)
 let empty = null;
+
+// 5. Undefined Type
+let none;
+console.log(none);
